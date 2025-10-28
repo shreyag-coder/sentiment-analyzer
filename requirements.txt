@@ -1,0 +1,6 @@
+torch
+transformers==4.57.1
+datasets>=2.20
+accelerate>=0.33
+scikit-learn
+streamlit
